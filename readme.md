@@ -2,6 +2,6 @@
 ## Структура проекта
 ### objects
 #### Item
-#### 
+#### Screenshot
 ### screens
 ### tools
